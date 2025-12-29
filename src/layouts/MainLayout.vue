@@ -36,6 +36,12 @@ const linksList = [
     link: 'https://quasar.dev',
   },
   {
+    title: 'UI Kit',
+    caption: 'Landing page with UI Kit',
+    icon: 'school',
+    link: '/#/landing_page_ui_kit',
+  },
+  {
     title: 'Github',
     caption: 'github.com/quasarframework',
     icon: 'code',

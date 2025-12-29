@@ -56,6 +56,7 @@ export default defineConfig((/* ctx */) => {
       // extendViteConf (viteConf) {},
       // viteVuePluginOptions: {},
 
+
       vitePlugins: [
         [
           'vite-plugin-checker',

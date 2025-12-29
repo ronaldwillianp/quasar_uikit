@@ -1,0 +1,14 @@
+<script setup></script>
+
+<template>
+  <p uk-margin>
+    <button class="uk-button uk-button-default">Default</button>
+    <button class="uk-button uk-button-primary">Primary</button>
+    <button class="uk-button uk-button-secondary">Secondary</button>
+    <button class="uk-button uk-button-danger">Danger</button>
+    <button class="uk-button uk-button-text">Text</button>
+    <button class="uk-button uk-button-link">Link</button>
+  </p>
+</template>
+
+<style scoped></style>
