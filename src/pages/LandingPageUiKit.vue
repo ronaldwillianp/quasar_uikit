@@ -4,6 +4,7 @@ import UKAlert from 'components/UIKit/UKAlert.vue'
 import UKAlign from 'components/UIKit/UKAlign.vue'
 import UKAnimation from 'components/UIKit/UKAnimation.vue'
 import UKArticle from 'components/UIKit/UKArticle.vue'
+import UKCard from 'components/UIKit/UKCard.vue'
 </script>
 
 <template>
@@ -13,6 +14,7 @@ import UKArticle from 'components/UIKit/UKArticle.vue'
     <UKAlign/>
     <UKAnimation/>
     <UKArticle/>
+    <UKCard/>
   </div>
 </template>
 
